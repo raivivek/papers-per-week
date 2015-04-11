@@ -1,8 +1,8 @@
 A repository containing all of the papers that I'd reading under my initiative
 of 2 papers a week.
 
-However, this is an overestimate, and actual numbers would be high or low
-depending on the depth of the paper.
+However, this is an optimistic estimate, and actual numbers may be high or low
+depending on the depth of the paper and other academic engagements.
 
 ## Protein
 
@@ -13,6 +13,15 @@ depending on the depth of the paper.
 
 *8th April*
 
-2. Bhaya, D., Davison, M. & Barrangou, R. **CRISPR-Cas Systems in Bacteria and
+2. a. Bhaya, D., Davison, M. & Barrangou, R. **CRISPR-Cas Systems in Bacteria and
    Archaea: Versatile Small RNAs for Adaptive Defense and Regulation**. Annu.
-   Rev. Genet. 45, 273–297 (2011).
+   Rev. Genet. 45, 273–297 (2011). [review](april-15/08-crispr-cas/review-a.md)
+
+2. b. Horvath, P. & Barrangou, R. **CRISPR/Cas, the immune system of bacteria and
+   archaea**. Science 327, 167–170 (2010).
+
+
+### Where to find papers?
+
+You can find a large collection of scientific papers at [library
+genesis](http://libgen.in/scimag).
