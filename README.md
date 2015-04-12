@@ -21,6 +21,11 @@ depending on the depth of the paper and other academic engagements.
    archaea**. Science 327, 167–170 (2010).
 
 
+*12th April*
+
+3. Hecht MH (1996) **Strategies for the Design of Novel Proteins**. pp. 1-50 in
+   Protein Engineering and Design (P. R. Carey - ed.) Academic Press, New York.
+
 ### Where to find papers?
 
 You can find a large collection of scientific papers at [library
