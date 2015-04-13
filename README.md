@@ -26,6 +26,12 @@ depending on the depth of the paper and other academic engagements.
 3. Hecht MH (1996) **Strategies for the Design of Novel Proteins**. pp. 1-50 in
    Protein Engineering and Design (P. R. Carey - ed.) Academic Press, New York.
 
+*13th April*
+
+4. Harbury, P. B., Zhang, T., Kim, P. S. & Alber, T. **A switch between two-,
+   three-, and four-stranded coiled coils in GCN4 leucine zipper mutants**.
+   Science 262, 1401–1407 (1993).
+
 ### Where to find papers?
 
 You can find a large collection of scientific papers at [library
