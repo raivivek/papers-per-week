@@ -4,7 +4,7 @@ of 2 papers a week.
 However, this is an optimistic estimate, and actual numbers may be high or low
 depending on the depth of the paper and other academic engagements.
 
-Current count : **5**
+Current count : **9+**
 
 ## Protein
 
@@ -43,6 +43,22 @@ Current count : **5**
 * B. F, N. KN, C, F P et al., **Computational analysis of cell-to-cell
    heterogeneity in single-cell RNA-sequencing data reveals hidden
    subpopulations of cells**. Nature Biotechnology 33, 155–160 (2015)
+
+*15th May*
+
+* Mueller, M., Grauschopf, U., Maier, T., Glockshuber, R. & Ban, N. **The
+structure of a cytolytic alpha-helical toxin pore reveals its assembly
+mechanism**. Nature 459, 726–730 (2009).
+
+*25th May*
+
+* Griffiths, G. **Cell evolution and the problem of membrane topology**. Nat.
+  Rev. Mol. Cell Biol. 8, 1018–1024 (2007).
+
+*26th May*
+
+* Virnau, P., Mirny, L. A. & Kardar, M. **Intricate knots in proteins:
+  Function and evolution**. PLoS Comput. Biol. 2, 1074–1079 (2006).
 
 ### Where to find papers?
 
