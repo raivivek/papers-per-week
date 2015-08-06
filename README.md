@@ -60,6 +60,21 @@ mechanism**. Nature 459, 726–730 (2009).
 * Virnau, P., Mirny, L. A. & Kardar, M. **Intricate knots in proteins:
   Function and evolution**. PLoS Comput. Biol. 2, 1074–1079 (2006).
 
+**Hiatus**
+
+*June - July*
+
+* Read a lot of papers in quick succession with the purpose of extracting
+some experimental information, design methodology, or simply a theoretical
+description.
+
+The papers were mostly based on lipids and lipid membrane, pore-forming toxins.
+
+*06th August*
+
+* Taylor, W. R. **Protein knots and fold complexity: Some new twists.** Comput.
+  Biol. Chem. 31, 151–162 (2007).
+
 ### Where to find papers?
 
 You can find a large collection of scientific papers at [library
