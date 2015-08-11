@@ -75,6 +75,15 @@ The papers were mostly based on lipids and lipid membrane, pore-forming toxins.
 * Taylor, W. R. **Protein knots and fold complexity: Some new twists.** Comput.
   Biol. Chem. 31, 151–162 (2007).
 
+*10th August*
+
+* Mansfield, M. L. **Are there knots in proteins?** Nat. Struct. Mol. Biol. 1, 213–214 (1994).
+
+* Katritch, V. et al. **Geometry and physics of knots.** Nature 384, 142–145 (1996).
+
+* Mansfield, M. L. **Fit to be tied.** Nat. Struct. Biol. 4, 166–167 (1997).
+
+
 ### Where to find papers?
 
 You can find a large collection of scientific papers at [library
