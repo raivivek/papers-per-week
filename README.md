@@ -83,6 +83,10 @@ The papers were mostly based on lipids and lipid membrane, pore-forming toxins.
 
 * Mansfield, M. L. **Fit to be tied.** Nat. Struct. Biol. 4, 166–167 (1997).
 
+*09th November*
+
+* Gibson, D. G. et al. **Creation of a bacterial cell controlled by a chemically
+  synthesized genome.** Science 329, 52–56 (2010).
 
 ### Where to find papers?
 
