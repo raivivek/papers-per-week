@@ -88,6 +88,20 @@ The papers were mostly based on lipids and lipid membrane, pore-forming toxins.
 * Gibson, D. G. et al. **Creation of a bacterial cell controlled by a chemically
   synthesized genome.** Science 329, 52–56 (2010).
 
+*14th November*
+
+* Makrides, S. C. & Makrides, S. C. **Strategies for Achieving High-Level
+  Expression of Genes in Escherichia coli.** Microbiol. Rev. 60, 512–538
+(1996).[review](nov-15/14-gene-expression-review.md)
+
+*18th November*
+
+* McCarthy, J. E. & Gualerzi, C. **Translational control of prokaryotic gene
+expression.** Trends Genet. 6, 78–85 (1990).
+
+* Chapter 8, 9, 11 & 12;  **Gene Expression Systems: Using Nature for the Art of
+Expression** Elsevier. ISBN: 978-0-12-253840-7 (1999)
+
 ### Where to find papers?
 
 You can find a large collection of scientific papers at [library
